@@ -1,4 +1,4 @@
-https://ctf.ehax.in/\
+https://ctf.ehax.in/ \
 Team Rank: #96\
 Point Total: 2409\
 User Name	Score\
